@@ -9,7 +9,7 @@ public class AccountsUI {
 	private List<Contact> contacts = new ArrayList<>();
 	//private Contact tempContact; 
 
-	
+	//
 	public AccountsUI() {
 		UI.initialise();
 		UI.setWindowSize(1200, 900);
