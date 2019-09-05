@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ecs1005" level="project" />
+    <orderEntry type="library" name="ecs1001" level="project" />
+    <orderEntry type="library" name="ecs10017" level="project" />
+    <orderEntry type="library" name="ecs10029" level="project" />
+    <orderEntry type="library" name="ecs10043" level="project" />
+    <orderEntry type="library" name="ecs10011" level="project" />
+    <orderEntry type="library" name="ecs10025" level="project" />
+    <orderEntry type="library" name="ecs10032" level="project" />
+    <orderEntry type="library" name="ecs10042" level="project" />
+    <orderEntry type="library" name="ecs10016" level="project" />
+    <orderEntry type="library" name="ecs10033" level="project" />
+    <orderEntry type="library" name="ecs100" level="project" />
+    <orderEntry type="library" name="ecs10039" level="project" />
+    <orderEntry type="library" name="ecs10023" level="project" />
+    <orderEntry type="library" name="ecs1003" level="project" />
+    <orderEntry type="library" name="ecs10031" level="project" />
+    <orderEntry type="library" name="ecs10030" level="project" />
+    <orderEntry type="library" name="ecs10020" level="project" />
+    <orderEntry type="library" name="ecs10036" level="project" />
+    <orderEntry type="library" name="ecs10040" level="project" />
+    <orderEntry type="library" name="ecs10015" level="project" />
+    <orderEntry type="library" name="ecs10014" level="project" />
+    <orderEntry type="library" name="ecs10024" level="project" />
+    <orderEntry type="library" name="ecs10037" level="project" />
+    <orderEntry type="library" name="ecs10013" level="project" />
+    <orderEntry type="library" name="ecs1007" level="project" />
+    <orderEntry type="library" name="ecs10018" level="project" />
+    <orderEntry type="library" name="ecs1002" level="project" />
+    <orderEntry type="library" name="ecs1004" level="project" />
+    <orderEntry type="library" name="ecs10027" level="project" />
+    <orderEntry type="library" name="ecs1008" level="project" />
+    <orderEntry type="library" name="ecs10019" level="project" />
+    <orderEntry type="library" name="ecs10012" level="project" />
+    <orderEntry type="library" name="ecs10028" level="project" />
+    <orderEntry type="library" name="ecs10038" level="project" />
+    <orderEntry type="library" name="ecs10041" level="project" />
+    <orderEntry type="library" name="ecs1006" level="project" />
+    <orderEntry type="library" name="ecs10010" level="project" />
+    <orderEntry type="library" name="ecs10044" level="project" />
+    <orderEntry type="library" name="ecs10034" level="project" />
+    <orderEntry type="library" name="ecs10035" level="project" />
+    <orderEntry type="library" name="ecs1009" level="project" />
+    <orderEntry type="library" name="ecs10026" level="project" />
+    <orderEntry type="library" name="ecs10022" level="project" />
+    <orderEntry type="library" name="ecs10021" level="project" />
+  </component>
+</module>
